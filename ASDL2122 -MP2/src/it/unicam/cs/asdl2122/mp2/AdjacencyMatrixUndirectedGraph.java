@@ -4,11 +4,6 @@
 package it.unicam.cs.asdl2122.mp2;
 
 import java.util.*;
-
-// TODO completare gli import necessari
-
-// ATTENZIONE: è vietato includere import a pacchetti che non siano della Java SE
-
 /**
  * Classe che implementa un grafo non orientato tramite matrice di adiacenza.
  * Non sono accettate etichette dei nodi null e non sono accettate etichette
@@ -37,8 +32,7 @@ import java.util.*;
  * supporta tutti i metodi che usano indici, utilizzando l'indice assegnato a
  * ogni nodo in fase di inserimento.
  * 
- * @author Luca Tesei (template) **INSERIRE NOME, COGNOME ED EMAIL
- *         xxxx@studenti.unicam.it DELLO STUDENTE** (implementazione)
+ * @author Luca Tesei (template) Antonio Gassner, antoniobimbo.gassner@studenti.unicam.it (implementazione)
  *
  * 
  */
